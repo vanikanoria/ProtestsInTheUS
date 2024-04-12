@@ -1,0 +1,1 @@
+The given dataset contains information about the nature and frequency of protests in the United States from the beginning of 2020 to mid 2022. It reports 42533 unique protests or riots occurring across the United States within that time frame. In this analysis, I decompose the riots by location, nature, time frame, and associated actors, which are the organizations involved. 
